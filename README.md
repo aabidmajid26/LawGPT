@@ -1,0 +1,1 @@
+# This application helps lawyers or otherwise to go through important legal documents in an interactive manner.
